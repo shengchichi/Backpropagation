@@ -4,6 +4,6 @@
     Input: Data, learning rate, ending condition, layers of netwok, neutrons of each network
     Output: testing/training success rate
 ## Dataset
-![Dataset](./dataset)
+[Dataset](./dataset)
 ## Example
 ![example](example1.jpg)
